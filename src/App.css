@@ -16,3 +16,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.images {
+  display: flex;
+  flex-direction: column;
+}
